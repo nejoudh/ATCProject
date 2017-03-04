@@ -1,0 +1,44 @@
+
+
+
+h3 {
+  margin-left: 15px;
+}
+
+.image {width : 300px;
+
+margin-left: 15px;
+padding-bottom: 10px;}
+
+.card {
+width : 330px;
+border: solid 1px lightgray;
+border-radius: 1px;
+box-shadow: 6px 6px 0px 0px #eff1f4;
+
+}
+
+.content {
+border: solid 1px lightgray;
+margin-left: 15px;
+margin-right: 15px;
+margin-bottom: 15px;
+
+}
+
+.italic { font-style: italic;}
+
+ul {
+ list-style: none;
+}
+
+span {
+  font-weight: bold;
+  margin-left: -40px;
+}
+
+.innercontent {
+
+margin: 10px
+
+}
